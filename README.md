@@ -1,6 +1,6 @@
 # run_analysis
  
-Peer-graded Assignment: Getting and Cleaning Data Course Project
+Getting and Cleaning Data Course Project
 This repository is a run_analysis submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
 
 Dataset
